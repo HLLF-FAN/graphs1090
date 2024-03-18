@@ -9,7 +9,7 @@ Also works for other dump1090 variants supplying stats.json
 
 ## Installation / Update to current version:
 ```
-sudo bash -c "$(curl -L -o - https://github.com/wiedehopf/graphs1090/raw/master/install.sh)"
+sudo bash -c "$(curl -L -o - https://gh-proxy.com/https://github.com/HLLF-FAN/graphs1090/raw/master/install.sh)"
 ```
 
 Note on data loss: When removing or losing power you will lose graph data generated after 23:42 of the previous day.
